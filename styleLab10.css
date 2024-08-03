@@ -1,0 +1,52 @@
+/* Navbar */
+#title{
+    background-color: #ffffff;
+    padding: 3% 5%;
+    text-align: center;
+    font-family: "Ysabeau SC", sans-serif;
+}
+.menu{
+    border-style: double;
+    border-color: blueviolet;
+    margin-inline: 10px;
+}
+.row{
+    flex-wrap: nowrap !important;
+}
+.nav-item{
+    text-align: center;
+    color: black;
+}
+.nav-link{
+    color: black;
+}
+a:hover{
+    color:blueviolet;
+}
+h3{
+    color: blueviolet;
+    padding-bottom: 35px;
+}
+/* Portfolio Section */
+.portfolio{
+    border-style: double;
+    border-color: blueviolet;
+}
+div.gallery {
+    margin: 12px;
+    border: 2px solid #ccc;
+    float: left;
+    width: 250px;
+  }
+  
+  div.gallery:hover {
+    border: 1px solid #777;
+  }
+  
+  div.gallery img {
+    width: inherit;
+    height: auto;
+  }
+  a{
+    width: inherit
+  }
